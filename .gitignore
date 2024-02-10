@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# Dependencies and build files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
+
+# Virtualenv
+venv/
+env/
